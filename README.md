@@ -13,6 +13,5 @@
 ![C](https://img.shields.io/badge/%20-%232f2625.svg?&style=for-the-badge&logo=c&logoColor=A8B9CC)
 
 ### ⚡ Recent Activities
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:last_update-->
