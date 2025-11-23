@@ -11,3 +11,8 @@
 ![CSS](https://img.shields.io/badge/css%20-%23154881.svg?&style=for-the-badge&logo=css&logoColor=white)
 ![JS](https://img.shields.io/badge/JavaScript%20-%232f2625.svg?&style=for-the-badge&logo=JavaScript&logoColor=f7df1e)
 ![C](https://img.shields.io/badge/%20-%232f2625.svg?&style=for-the-badge&logo=c&logoColor=A8B9CC)
+
+### ⚡ Recent Activities
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
