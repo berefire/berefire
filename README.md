@@ -16,10 +16,10 @@
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [berefire/room-homepage](https://github.com/berefire/room-homepage)<br>
 2. ⬆️ Pushed undefined commit(s) to [berefire/room-homepage](https://github.com/berefire/room-homepage)<br>
-3. ⬆️ Pushed undefined commit(s) to [berefire/loopstudios-landing-page](https://github.com/berefire/loopstudios-landing-page)<br>
+3. ⬆️ Pushed undefined commit(s) to [berefire/room-homepage](https://github.com/berefire/room-homepage)<br>
 4. ⬆️ Pushed undefined commit(s) to [berefire/room-homepage](https://github.com/berefire/room-homepage)<br>
-5. ⬆️ Pushed undefined commit(s) to [berefire/room-homepage](https://github.com/berefire/room-homepage)<br>
+5. ⬆️ Pushed undefined commit(s) to [berefire/loopstudios-landing-page](https://github.com/berefire/loopstudios-landing-page)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, July 5th, 2026, 1:22:15 PM
+Last Updated: Monday, July 6th, 2026, 12:20:03 AM
 <!--RECENT_ACTIVITY:last_update_end-->
