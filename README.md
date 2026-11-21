@@ -33,8 +33,8 @@ Self-taught, consistent (1,200+ contributions this year), and always learning.
 | Project | What it shows | Stack | Links |
 |---|---|---|---|
 | **Multi-step Form** | Form state across steps, validation, component docs, E2E tests | React, Tailwind, RTL, Playwright, Storybook | [Live](https://berefire.github.io/multi-step-form) · [Code](https://github.com/berefire/multi-step-form) |
-| **REST Countries API** | Fetching API data, filtering, dark/light theme | React | [Live](https://berefire.github.io/rest-countries-api) · [Code](https://github.com/berefire/rest-countries-api) |
-| **Tip Calculator** | Unit testing business logic | JavaScript, Vitest | [Live](https://berefire.github.io/tip-calculator-app) · [Code](https://github.com/berefire/tip-calculator-app) |
+| **REST Countries API** | Fetching API data, filtering, dark/light theme | React | [Live](https://berefire.github.io/rest-countries-api-with-color-theme-switcher/) · [Code](https://github.com/berefire/rest-countries-api-with-color-theme-switcher) |
+| **Tip Calculator** | Unit testing business logic | JavaScript, Vitest | [Live](https://berefire.github.io/tip-calculator-app-main) · [Code](https://github.com/berefire/tip-calculator-app-main) |
 
 ---
 
